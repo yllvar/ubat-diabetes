@@ -1,5 +1,3 @@
-# HiyoRi E-commerce with Cashback - Development Plan
-
 ## Project Status
 - **Last Updated**: 2025-10-11
 - **Current Phase**: Wallet Feature Implementation
