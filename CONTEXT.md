@@ -1,4 +1,3 @@
-# HiyoRi E-commerce with Cashback Platform
 
 ## 1. Project Overview
 A comprehensive e-commerce platform with integrated cashback and wallet functionality, built with Next.js and Supabase. The project combines the core e-commerce features from HiyoRi with advanced cashback and wallet management from the cashback-commerce project.
